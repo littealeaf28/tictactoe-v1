@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="title">Tic Tac Toe</string>
+    <string name="instructions">Choose your counter!</string>
+    <string name="o_counter">O</string>
+    <string name="x_counter">X</string>
+    <string name="start">Start</string>
+    <string name="return_msg">Return back to menu?</string>
+    <string name="close_sign">Close Sign</string>
+</resources>
